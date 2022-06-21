@@ -6,7 +6,7 @@ title: 博客主页
 heroImage: /logo.svg
 heroText: 叁叔 #TODO: 你博客的名称
 heroFullScreen: true
-tagline: 永远玩的开心 #TODO: 你可以在这里放置你的口号与标语
+tagline: 我在等 世上唯一契合灵魂 #TODO: 你可以在这里放置你的口号与标语
 projects:
   - icon: project
     name: 短视频H5 #TODO: 你自己的项目
